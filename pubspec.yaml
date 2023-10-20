@@ -29,11 +29,10 @@ flutter:
   uses-material-design: true
 
   fonts:
-    - family: Lato
+    - family: Roboto
       fonts:
-        - asset: assets/fonts/lato/Lato-Regular.ttf
-        - asset: assets/fonts/lato/Lato-Italic.ttf
-          style: italic
+        - asset: assets/fonts/Roboto/Roboto-Regular.ttf
+        - asset: assets/fonts/Roboto/Roboto-Italic.ttf
 
   assets:
     - assets/lottie/

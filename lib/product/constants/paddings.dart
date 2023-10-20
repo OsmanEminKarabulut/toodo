@@ -8,4 +8,7 @@ mixin Paddings {
       const EdgeInsets.symmetric(vertical: 20, horizontal: 20);
 
   final EdgeInsets toodoTilePadding = const EdgeInsets.symmetric(vertical: 10);
+
+  final EdgeInsets newToDoAddPadding =
+      const EdgeInsets.symmetric(vertical: 300, horizontal: 20);
 }
